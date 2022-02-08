@@ -1,2 +1,1 @@
-# learn-with-ekhtiari
-Summary Note as Dr. Hamed Ekhtiari lecture
+# خلاصه  برداری از سخنرانی‌های دکتر اختیاری
